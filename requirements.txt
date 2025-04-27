@@ -1,0 +1,4 @@
+opencv-python>=4.9.0
+numpy>=1.26
+depthai>=2.23
+torch>=2.3.0
